@@ -1,6 +1,9 @@
 ༄ 👋 Hola, soy Poetty!
+
 ༄ 👀 Actualmente estoy trabajando en mi proyecto Prati-Development, Administrador de Battle y Desarrollador de HBot.
+
 ༄ 🌱 Actualmente estoy aprendiendo Java, JavaScript y C++
+
 ༄ 📫 Me puedes retar en mi discord Poetty#0001
 
 <!---
