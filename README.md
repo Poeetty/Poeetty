@@ -1,10 +1,10 @@
-༄ 👋 Hola, soy Poetty!
+༄ 👋 Hello, i'm Poetty!
 
-༄ 👀 Actualmente estoy trabajando en mi proyecto Prati-Development, Administrador de Battle y Desarrollador de HBot.
+༄ 👀 I am currently working on my project Prati-Development, Battle T-Mod and HBot Developer.
 
-༄ 🌱 Actualmente estoy aprendiendo Java, JavaScript y C++
+༄ 🌱 I am currently learning Java, JavaScript and C++.
 
-༄ 📫 Me puedes retar en mi discord Poetty#0001
+༄ 📫 You can challenge me in my discord Poetty#0001.
 
 <!---
 Poeetty/Poeetty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
